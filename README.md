@@ -1,1 +1,1 @@
-## This branch is about Edit the babysitter's details if it's added or deleted
+## This branch is about Order a babysitter if it is through the app / email / SMS / whatsapp
