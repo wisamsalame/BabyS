@@ -17,8 +17,4 @@ This appliction is being developed as part of 4th year final project at the soft
 
 *___________________________________________________________________________________________________________________________________*
 ### ScreenShots 
-<img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/main.png" width="25%" height="25%">|
-<img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/Edit%20Profile.png" width="24%" height="24%">|
-<img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/Edit.png" width="24%" height="24%">|
-<img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/ss2.png"  width="23.8%" height="23%">|
 
