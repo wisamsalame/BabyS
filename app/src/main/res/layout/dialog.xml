@@ -1,0 +1,117 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4C5D5A"
+    android:orientation="vertical">
+
+
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="#ffcea3"
+        android:contentDescription="@string/app_name"
+        android:scaleType="center" />
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:hint="@string/selectdate"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textViewfrom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:layout_weight="1"
+            android:layout_alignParentLeft="true"
+            android:textSize="30sp"
+            android:text="@string/from" />
+
+        <TextView
+            android:id="@+id/textViewto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/colorAccent"
+            android:layout_alignParentRight="true"
+            android:textSize="30sp"
+            android:text="@string/to" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_thisapp"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="@drawable/mbtn"
+        android:fontFamily="@font/tch"
+        android:text="@string/appbtn"
+        android:textSize="32dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/btn_dialog_Email"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:background="@drawable/mbtn"
+        android:fontFamily="@font/tch"
+        android:text="@string/emailbtn"
+        android:textSize="32dp"
+        tools:visibility="visible" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/btn_dialog_SMS"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/mbtn"
+        android:fontFamily="@font/tch"
+        android:text="SMS"
+        android:textSize="32dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/btn_dialog_Whatsapp"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:background="@drawable/mbtn"
+        android:fontFamily="@font/tch"
+        android:text="@string/whatsappbtn"
+        android:textSize="32dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/btn_dialog_Call"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/mbtn"
+        android:fontFamily="@font/tch"
+        android:text="@string/callbtn"
+        android:textSize="32dp" />
+
+
+</LinearLayout>

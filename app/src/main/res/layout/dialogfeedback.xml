@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#4c5d5a"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="#ffcea3"
+        android:contentDescription="@string/app_name"
+        android:scaleType="center" />
+
+    <RatingBar
+        android:id="@+id/ratingBar_stars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:theme="@style/RatingBar"
+        android:stepSize="1"
+
+        android:layout_gravity="center|center_horizontal|center_vertical"
+        android:numStars="5" />
+
+    <EditText
+        android:id="@+id/editText_review"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/treated" />
+
+    <Button
+        android:id="@+id/button_report"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:background="@drawable/mbtn"
+        android:fontFamily="@font/tch"
+        android:text="@string/ok"
+        android:textSize="32dp" />
+
+</LinearLayout>

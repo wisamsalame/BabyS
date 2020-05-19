@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">babyS</string>
+
+    <string-array name="cities">
+
+        <item>Akko</item>
+        <item>Arrabe</item>
+        <item>Ashqelon</item>
+        <item>Beer Sheva</item>
+        <item>Bet Shean</item>
+        <item>Bet Shemesh</item>
+        <item>Bene Beraq</item>
+        <item>Givat Shemuel</item>
+        <item>Givatayim</item>
+        <item>Herzliyya</item>
+
+
+    </string-array>
+
+    <!--                   edit profile bs                -->
+    <string name="title_activity_signin_cu" translatable="false">signinCu</string>
+    <string name="nameofbs">Name : </string>
+    <string name="ageofbs">Age : </string>
+    <string name="phonenumberbs">Phone Number : </string>
+    <string name="salarybs">Salary : </string>
+    <string name="citybs">City :</string>
+    <string name="locationbs">Click here to get location</string>
+    <string name="carbs">If have a car</string>
+    <string name="experiancebs">If have experince</string>
+    <string name="out">Out</string>
+    <string name="edit">Save</string>
+    <string name="limitionbs">limitations : </string>
+    <string name="experiance">Experince : </string>
+    <string name="emailbs">Email : </string>
+    <string name="activelimitations">Active limitations :</string>
+    <string name="havecarbs">Have a car : </string>
+    <string name="accept">Accept</string>
+
+
+    <!--                  forget password          -->
+    <string name="restemail">Enter your email</string>
+    <string name="resendemail">Resent email</string>
+
+
+    <!--                    main activity           -->
+    <string name="custumerbtn">Customer</string>
+    <string name="babysitterbtn">Babysitter</string>
+
+
+    <!--                    sign in                 -->
+    <string name="signinbtn">Sign in</string>
+    <string name="registerbtn">Registering</string>
+
+    <!--                    order                   -->
+
+    <string name="backbtn">back</string>
+
+    <!--                    bs profile              -->
+    <string name="editprofile">Edit Profile</string>
+    <string name="orderbtn">Order</string>
+    <string name="outbtn">Out</string>
+
+    <!--                    search                  -->
+    <string name="searchbtn">SEARCH</string>
+
+    <!--                    register                -->
+
+    <string name="simplename">Name</string>
+    <string name="simpleemail">Eamil</string>
+    <string name="inputpassword">Password : </string>
+    <string name="simplepassword">Password</string>
+    <string name="forgetpassword">Forget Password !</string>
+
+    <string name="signin">Sign in</string>
+
+
+    <!--                    dialog                  -->
+
+    <string name="selectdate">Select Date</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="appbtn">BabysitterApp</string>
+    <string name="emailbtn">Email</string>
+    <string name="whatsappbtn">Whatsapp</string>
+    <string name="callbtn">Call</string>
+
+    <string name="treated">description</string>
+    <string name="ok">ok</string>
+
+    <string name="order">Order</string>
+    <string name="feedback">Feedback</string>
+    <string name="details">Details</string>
+
+
+    <!--                order           -->
+    <string name="thename">my name is </string>
+    <string name="canwork"> if you can to work on </string>
+    <string name="thank"> thanks</string>
+
+
+</resources>

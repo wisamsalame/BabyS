@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgma"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center|center_horizontal">
+
+        <Button
+            android:id="@+id/btn_customer"
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+            android:textSize="32dp"
+            android:background="@drawable/mbtn"
+            android:fontFamily="@font/tch"
+            android:text="@string/custumerbtn" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+
+        <Button
+            android:id="@+id/btn_main_BS"
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+
+            android:background="@drawable/mbtn"
+            android:textSize="32dp"
+            android:fontFamily="@font/tch"
+            android:text="@string/babysitterbtn" />
+    </LinearLayout>
+</LinearLayout>
