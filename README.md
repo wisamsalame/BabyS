@@ -16,7 +16,8 @@ This appliction is being developed as part of 4th year final project at the soft
 ### [Version Alpha Video](https://www.youtube.com/watch?v=ayJfx-vrfMw)
 *___________________________________________________________________________________________________________________________________*
 ### ScreenShots 
+<img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/main.png" width="22%" height="20%">|
+<img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/Edit.png" width="22%" height="20%">
 <img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/Edit%20Profile.png" width="22%" height="20%">|
 <img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/Search.png" width="22%" height="22%">|
-<img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/main.png" width="22%" height="20%">|
 <img src="https://github.com/wisamsalame/babyS/blob/master/Screenshots/order.png" width="22%" height="22%">
