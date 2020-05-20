@@ -10,7 +10,7 @@ This appliction is being developed as part of 4th year final project at the soft
 
 *___________________________________________________________________________________________________________________________________*
 ## Important links: 
-### [Java code](https://github.com/wisamsalame/babyS/tree/master/app/src/main/java/com/example/babys)
+### [Java code](https://github.com/wisamsalame/babyS/tree/master/app/src/main/java/com/babysitter/babys)
 ###  [My Diary](https://www.my-diary.org/read/e/546017067)
 *___________________________________________________________________________________________________________________________________*
 ### [Version Alpha Video](https://www.youtube.com/watch?v=ayJfx-vrfMw)
